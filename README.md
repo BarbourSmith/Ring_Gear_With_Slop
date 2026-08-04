@@ -4,6 +4,16 @@
 
 ![](/project.svg)
 
+## Inputs
+
+- **Pitch** (undefined)
+- **Number_Of_Teeth** (undefined)
+- **Ring_Width** (undefined)
+- **Thickness** (undefined)
+- **Pressure_Angle** (undefined)
+- **Clearence** (number)
+
+
 
 
  
