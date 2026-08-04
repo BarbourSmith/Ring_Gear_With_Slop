@@ -1,0 +1,13 @@
+{
+    "atomType": "Molecule",
+    "x": 0,
+    "y": 0,
+    "uniqueID": "id-778",
+    "name": "Ring_Gear_With_Slop",
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "Unitless",
+    "fileTypeVersion": 1,
+    "filetypeVersion": 1
+}
