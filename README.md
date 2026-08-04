@@ -6,11 +6,11 @@
 
 ## Inputs
 
-- **Pitch** (undefined)
-- **Number_Of_Teeth** (undefined)
-- **Ring_Width** (undefined)
-- **Thickness** (undefined)
-- **Pressure_Angle** (undefined)
+- **Pitch** (number)
+- **Number_Of_Teeth** (number)
+- **Ring_Width** (number)
+- **Thickness** (number)
+- **Pressure_Angle** (number)
 - **Clearence** (number)
 
 
